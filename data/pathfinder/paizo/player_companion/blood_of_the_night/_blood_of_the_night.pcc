@@ -6,9 +6,7 @@ GENRE:Fantasy
 BOOKTYPE:Supplement
 SETTING:Pathfinder|Golarion
 STATUS:BETA
-PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core Rules
-PRECAMPAIGN:1,INCLUDES=Advanced Player's Guide
-PRECAMPAIGN:1,INCLUDES=Ultimate Magic
+PRECAMPAIGN:4,INCLUDESBOOKTYPE=Core Rules,INCLUDES=Bestiary 2,INCLUDES=Advanced Player's Guide,INCLUDES=Ultimate Magic
 PUBNAMELONG:Paizo Inc.
 PUBNAMESHORT:Paizo
 PUBNAMEWEB:http://www.paizo.com
@@ -42,12 +40,8 @@ ABILITY:botn_abilities_race.lst
 ABILITY:botn_feats.lst
 ABILITYCATEGORY:botn_abilitycategories.lst
 EQUIPMENT:botn_equip_general.lst
-RACE:botn_races.lst
 SPELL:botn_spells.lst
 TEMPLATE:botn_templates.lst
-
-PCC:@\pathfinder\paizo\roleplaying_game\core_essentials\races\dhampir\_race.pcc
-PCC:@\pathfinder\paizo\roleplaying_game\core_essentials\races\dhampir\_subrace.pcc
 
 # ENTRY DATE: 2016-04-13
 # LST MONKEY: Gwen T.

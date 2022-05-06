@@ -26,26 +26,11 @@ Great Claw								KEY:Daughter of Urgathoa ~ Great Claw	CATEGORY:Special Ability
 #Note DOMAINS added through Daughter of Urgathoa Monster Class
 Spells								KEY:Daughter of Urgathoa ~ Spells		CATEGORY:Special Ability	TYPE:SpecialQuality																																								DESC:A daughter of Urgathoa casts spells as a 6th-level cleric of Urgathoa--but although she selects two domains to determine bonus spells, she does not gain any domain powers.																																																																																																																																																																																																																																									SOURCEPAGE:p.310
 
+#Gillman
+Enchantment Resistance						KEY:Gillman ~ Enchantment Resistance	CATEGORY:Special Ability	TYPE:SpecialQuality.Extraordinary.GillmanRacialTrait																																			DESC:Gillmen gain a +2 racial saving throw bonus against non-aboleth enchantment spells and effects, but take a -2 penalty on such saving throws against aboleth sources.																																																																																																																																																																																																																																										SOURCEPAGE:p.311	ASPECT:SaveBonus|+2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments
+Servitor								KEY:Gillman ~ Servitor				CATEGORY:Special Ability	TYPE:SpecialQuality.GillmanRacialTrait																																					DESC:Gillmen serve the dark, unfathomable schemes of the reclusive aboleths, but unless the gillmen go against the orders of their aboleth masters (which are often unknown to them, masked in the form of hidden memories triggered by key events), they are free to act as they wish.																																																																																																																																																																																																																								SOURCEPAGE:p.311
+Water Dependent							KEY:Gillman ~ Water Dependent			CATEGORY:Special Ability	TYPE:SpecialQuality.Extraordinary.GillmanRacialTrait																																			DESC:A gillman's body requires constant submersion in fresh or salt water. Gillmen who spend more than 1 day without fully submerging themselves in water risk internal organ failure, pain cracking of the skin, and death within 4d6 hours.																																																																																																																																																																																																																															SOURCEPAGE:p.311
 
-# ------------------------------
-# Gillman
-# ------------------------------
-
-###NOTE: Race files are in core_essentials\races\gillman\
-
-###Block: Racial Traits
-# Ability Name									Source Page
-CATEGORY=Special Ability|Gillman ~ Ability Scores.MOD			SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Type.MOD				SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Size.MOD				SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Speed.MOD				SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Amphibious.MOD			SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Enchantment Resistance.MOD	SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Servitor.MOD				SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Water Dependent.MOD		SOURCEPAGE:p.310
-CATEGORY=Special Ability|Gillman ~ Languages.MOD			SOURCEPAGE:p.310
-
-###Block
 #Sandpoint Devil
 Bay									KEY:Sandpoint Devil ~ Bay			CATEGORY:Special Ability	TYPE:SpecialAttack.Supernatural																																						DESC:When the Sandpoint Devil screams as a standard action, all creatures within a 300-ft.-radius spread must succeed at a DC %1 Will save or become panicked for 2d5 rounds. This is a sonic, mind-affecting fear effect. Whether or not the save is successful, creatures within the effect are immune to the Sandpoint Devil's bay for 24 hours thereafter.|10+(HD/2)+CHA																																																																																																																																																																																																										SOURCEPAGE:p.312
 Hellfire Breath							KEY:Sandpoint Devil ~ Hellfire Breath	CATEGORY:Special Ability	TYPE:SpecialAttack.Supernatural																																						DESC:Once every 1d4 rounds, the Sandpoint Devil can unleash a blast of infernal flame from its mouth as a standard action. This hellfire fills a 30-ft. cone and causes 10d6 points of fire damage (Reflex DC %1 half). Anyone who takes damage from this breath weapon must also make a DC %1 Wo;; save to avoid becoming cursed by the infernal flames--those who become cursed take a -4 penalty on all attack rolls, saving throws, and skill checks for a number of days equal to the damage taken--during this time, the victim's skin appears to be horribly burned in places regardless of any healing applied. This curse effect functions at caster level %2.|10+(HD/2)+CON|HD																																																																																																																																																								SOURCEPAGE:p.312
@@ -56,26 +41,10 @@ Breath Weapon							KEY:Spine Dragon ~ Breath Weapon		CATEGORY:Special Ability	T
 Ray Deflection							KEY:Spine Dragon ~ Ray Deflection		CATEGORY:Special Ability	TYPE:SpecialQuality.Supernatural																																						DESC:A spine dragon's scales deflect rays and magic missile spells, rendering the spine dragon immune to such effects. There's a 30%% chance a deflected effect reflects back in full force at the caster; otherwise it is simply negated.																																																																																																																																																																																																																															SOURCEPAGE:p.313
 Spines								KEY:Spine Dragon ~ Spines			CATEGORY:Special Ability	TYPE:SpecialAttack.Extraordinary																																						DESC:A spine dragon's body is covered with long, crystalling spines. It can fire up to four of these spines/round as a full-attack action (or one as a standard action). A creature that attacks a spine dragon with a melee weapon, unarmed strike, or natural weapon must make a DC %1 Reflex save or take 2d8+%2 points of piercing damage from the spines.|10+(HD/2)+DEX|STR																																																																																																																																																																																																									SOURCEPAGE:p.313
 
-
-# ------------------------------
-# Strix
-# ------------------------------
-
-###NOTE: Race files are in core_essentials\races\strix\
-
-###Block: Racial Traits
-# Ability Name							Source Page
-CATEGORY=Special Ability|Strix ~ Ability Scores.MOD	SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Type.MOD			SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Size.MOD			SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Speed.MOD		SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Flight.MOD		SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Low-Light Vision.MOD	SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Darkvision.MOD		SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Hatred.MOD		SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Nocturnal.MOD		SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Suspicious.MOD		SOURCEPAGE:p.313
-CATEGORY=Special Ability|Strix ~ Languages.MOD		SOURCEPAGE:p.313
+#Strix
+Hatred								KEY:Strix ~ Hatred				CATEGORY:Special Ability	TYPE:SpecialAttack.Extraordinary.StrixRacialTrait																																			DESC:Strix receive a +1 bonus on attack rolls against humanoid creatures of the human subtype due to special training against these hated foes.																																																																																																																																																																																																																																															SOURCEPAGE:p.313
+Nocturnal								KEY:Strix ~ Nocturnal				CATEGORY:Special Ability	TYPE:SpecialQuality.Extraordinary.StrixRacialTrait																																			DESC:Strix gain a +2 racial bonus on Perception and Stealth checks at night.																																																																																																																																																																																																																																																										SOURCEPAGE:p.313
+Suspicious								KEY:Strix ~ Suspicious				CATEGORY:Special Ability	TYPE:SpecialQuality.Extraordinary.StrixRacialTrait																																			DESC:Strix receive a +2 racial bonus on saving throws against illusion spells or effects.																																																																																																																																																																																																																																																								SOURCEPAGE:p.313	ASPECT:SaveBonus|+2 vs. illusions
 
 #Treerazer
 Regeneration							KEY:Treerazer ~ Regeneration			CATEGORY:Special Ability	TYPE:SpecialQuality.Extraordinary.ModifyHP		DEFINE:RegenerationRate|0																														DESC:You are difficult to kill. You heal damage at %1 points per round, and you cannot die as long as your regeneration is still functioning (although you still fall unconscious when your hit points are below 0). Good aligned damage causes your regeneration to stop functioning on the round following the attack: you cannot heal any damage and can die normally. Attack forms that don't deal hit point damage are not healed by regeneration. Regeneration also does not restore hit points lost from starvation, thirst, or suffocation. You can regrow lost portions of you body and can reattach severed limbs or body parts if they are brought together within 1 hour of severing. Severed parts that are not reattached wither and die normally.|RegenerationRate																																																																														BONUS:VAR|RegenerationRate|15																																																							SOURCEPAGE:p.315	ASPECT:Ability Benefit|%1|RegenerationRate

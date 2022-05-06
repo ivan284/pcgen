@@ -4,6 +4,7 @@ SOURCELONG:Pathfinder Player Companion: Inner Sea Primer	SOURCESHORT:ISP	SOURCEW
 
 # Human Languages
 # Language		Type
+Azlanti		TYPE:Spoken.Written.Read
 Hallit		TYPE:Spoken.Written.Read
 Kelish		TYPE:Spoken.Written.Read
 Osiriani		TYPE:Spoken.Written.Read
@@ -17,8 +18,7 @@ Vudrani		TYPE:Spoken.Written.Read
 
 ###Block: Ancient Languages
 # Language		Type
-Ancient Osiriani	NAMEISPI:YES	TYPE:Spoken.Written.Read.AncientLanguage
-Azlanti		NAMEISPI:YES	TYPE:Spoken.Written.Read.AncientLanguage
+Ancient Osiriani	TYPE:Read.Written
 
 #
 # End

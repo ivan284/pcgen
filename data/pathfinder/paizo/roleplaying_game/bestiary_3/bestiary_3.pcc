@@ -6,9 +6,7 @@ STATUS:BETA
 GENRE:Fantasy
 BOOKTYPE:Supplement
 SETTING:Pathfinder
-PRECAMPAIGN:1,INCLUDES=Advanced Player's Guide
-PRECAMPAIGN:1,INCLUDES=Bestiary
-!PRECAMPAIGN:1,Bestiary 3 ~ Player Options Only
+PRECAMPAIGN:2,INCLUDES=Bestiary,INCLUDES=Advanced Player's Guide
 !PRECAMPAIGN:1,INCLUDES=Bonus Bestiary,Pathfinder RPG Core Supplements,Pathfinder RPG for Game Masters
 
 PUBNAMELONG:Paizo Inc.
@@ -70,10 +68,8 @@ COPYRIGHT:PCGen dataset conversion for "Bestiary 3" Copyright 2013, PCGen Data t
 # Do not remove the EXTRAFILE comment.
 #EXTRAFILE:OGL.txt
 
-DATACONTROL:b3__datacontrols.lst
-ABILITY:b3_abilities_globalvar.lst
-
 # Data files
+ABILITY:b3_abilities_companion.lst
 ABILITY:b3_abilities_race.lst
 ABILITYCATEGORY:b3_abilitycategories.lst
 DEITY:b3_deities.lst
@@ -82,11 +78,19 @@ EQUIPMOD:b3_equipmods.lst
 KIT:b3_kits_race.lst
 LANGUAGE:b3_languages.lst
 RACE:b3_races.lst
+RACE:b3_races_companion.lst
 TEMPLATE:b3_templates.lst
 WEAPONPROF:b3_profs_weapon.lst
 
-# Load player-useable races and options
-PCC:@\pathfinder\paizo\roleplaying_game\bestiary_3\_bestiary_3_for_players.pcc
+# Separate out races used by ARG to simplify dependencies
+ABILITY:b3_abilities_race_arg.lst
+ABILITYCATEGORY:b3_abilitycategories_arg.lst
+RACE:b3_races_arg.lst
+
+
+#MOVE TO CORE ESSENTIALS
+KIT:b3_kits_companion.lst
+ABILITY:b3_feats.lst
 
 
 # We have some data from other sets which we need to include if they aren't loaded

@@ -1,0 +1,5 @@
+# SOURCELONG: The Worldwound	SOURCESHORT:WWD	SOURCEWEB:http://www.mpcwebsite.com	SOURCEDATE:2008-01
+
+#ABILITYCATEGORY:Demonic Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Internal			TYPE:DemonicTrait		PLURAL:Demonic Traits	DISPLAYLOCATION:Class Features
+#ABILITYCATEGORY:Abyssal Energy Type		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Internal			TYPE:DemonicTraitAbyssalEnergy		PLURAL:Abyssal Energy	DISPLAYLOCATION:Class Features	ABILITYLIST:Abyssal Energy (Acid)|Abyssal Energy (Cold)|Abyssal Energy (Fire)
+ABILITYCATEGORY:Abyssal Energy Type	ABILITYLIST:Demonic Traits ~ Abyssal Energy ~ Acid|Demonic Traits ~ Abyssal Energy ~ Cold|Demonic Traits ~ Abyssal Energy ~ Fire

@@ -1,0 +1,10 @@
+STARTPACK:Demon (Abrikandilu) Default	TYPE:Default Monster.Outsider	VISIBLE:QUALIFY	EQUIPBUY:0	PREMULT:1,[PRERACE:1,Demon (Abrikandilu)],[!PRERACE:1,%]	SOURCEPAGE:p.60
+ALIGN:CE
+RACE:Demon (Abrikandilu)	!PRERACE:1,%
+NAME:Abrikandilu
+SKILL:Escape Artist	RANK:2
+SKILL:Perception		RANK:2
+SKILL:Stealth		RANK:2
+ABILITY:CATEGORY=FEAT|Toughness
+STAT:STR=10|DEX=10|CON=10|INT=11|WIS=11|CHA=11
+

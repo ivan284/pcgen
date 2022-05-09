@@ -1,3 +1,4 @@
+# CVS $Revision$ $Author$ -- Mon Nov  6 20:04:41 2017 -- reformated by PCGen PrettyLST v6.06.00
 CAMPAIGN:Wrath of the Righteous, Part 2: Sword of Valor
 KEY:Pathfinder Adventure Path #74
 GAMEMODE:Pathfinder|Pathfinder_PFS
@@ -14,8 +15,8 @@ PUBNAMEWEB:http://paizo.com
 SOURCELONG:Pathfinder Adventure Path #74
 SOURCESHORT:AP74
 SOURCEWEB:http://paizo.com/products/btpy90qb
-SOURCEDATE:2013-09
-RANK:201309
+SOURCEDATE:2013-10
+RANK:201310
 ISOGL:YES
 
 COVER:PZO9074.png
@@ -23,7 +24,7 @@ LOGO:@/publisher_logos/Paizo_Publishing.png
 URL:WEBSITE|http://www.paizo.com/|Visit Paizo Publishing!
 URL:WEBSITE|http://www.paizo.com/communityuse|Paizo's Community Use Policy.
 URL:Paizo Publishing|http://paizo.com/products/btpy90qb|Buy this publication from Paizo Publishing!
-DESC:The Wrath of the Righteous Adventure Path continues with "Sword of Valor," by RPG Superstar Neil Spicer. The PCs, now invested with righteous mythic power, are poised to become the greatest heroes of this seemingly endless war against the demons of the Worldwound... provided they can succeed at their first mission. The citadel city of Drezen was once a symbol of the First Crusade's triumph against the Worldwound, yet when a larger horde of demons attacked, they shattered Drezen's defenses and captured both the citadel and the crusaders' symbol of power. Can the PCs help lead an army north to reclaim Drezen and recover this potent relic, or are they marching their comrades and followers to a gruesome demise?
+DESC:The Wrath of the Righteous Adventure Path continues with ?Sword of Valor,? by RPG Superstar Neil Spicer. The PCs, now invested with righteous mythic power, are poised to become the greatest heroes of this seemingly endless war against the demons of the Worldwound? provided they can succeed at their first mission. The citadel city of Drezen was once a symbol of the First Crusade?s triumph against the Worldwound, yet when a larger horde of demons attacked, they shattered Drezen?s defenses and captured both the citadel and the crusaders? symbol of power. Can the PCs help lead an army north to reclaim Drezen and recover this potent relic, or are they marching their comrades and followers to a gruesome demise?
 
 INFOTEXT:This dataset uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This dataset is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Publishing and Paizo products, please visit paizo.com.
 COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
@@ -43,10 +44,10 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Adventure Path #74: Sword of 
 #EXTRAFILE:OGL.txt
 
 # Data files
+EQUIPMENT:ap74_equip.lst
 
 #ABILITY:ap74_abilities.lst
 #ABILITYCATEGORY:ap74_abilitycategories.lst
-#EQUIPMENT:ap74_equip.lst
 
 # ENTRY DATE: 2018-11
 # LST MONKEY: Regan Anderson

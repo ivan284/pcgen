@@ -109,3 +109,6 @@ mods/
 code/manifest-tests
 .DS_Store
 
+# Vim
+*.un~
+*.swp

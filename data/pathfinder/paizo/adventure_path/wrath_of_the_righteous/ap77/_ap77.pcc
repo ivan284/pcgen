@@ -1,31 +1,29 @@
-CAMPAIGN:Wrath of the Righteous, Part 1: The Worldwound Incursion
-KEY:Pathfinder Adventure Path #73
+CAMPAIGN:Wrath of the Righteous, Part 5: Herald of the Ivory Labyrinth
+KEY:Pathfinder Adventure Path #77
 GAMEMODE:Pathfinder|Pathfinder_PFS
 TYPE:Paizo Publishing.Pathfinder Adventure Path.Wrath of the Righteous
 STATUS:BETA
 GENRE:Fantasy
 BOOKTYPE:Adventure
 SETTING:Pathfinder|Golarion
-PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core Rules,INCLUDESBOOKTYPE=Complete Core
 PRECAMPAIGN:1,INCLUDES=Advanced Player's Guide
-PRECAMPAIGN:1,INCLUDES=Ultimate Combat,INCLUDES=Ultimate Equipment
-PRECAMPAIGN:1,INCLUDES=Mythic Adventures
+PRECAMPAIGN:1,INCLUDES=Pathfinder Adventure Path #76
 PUBNAMELONG:Paizo Publishing
 PUBNAMESHORT:Paizo
 PUBNAMEWEB:http://paizo.com
-SOURCELONG:Pathfinder Adventure Path #73
-SOURCESHORT:AP73
-SOURCEWEB:http://paizo.com/products/btpy90q9
-SOURCEDATE:2013-08
-RANK:201308
+SOURCELONG:Pathfinder Adventure Path #77
+SOURCESHORT:AP77
+SOURCEWEB:http://paizo.com/products/btpy92lh
+SOURCEDATE:2014-01
+RANK:201401
 ISOGL:YES
 
-COVER:PZO9073.png
+COVER:PZO9077.png
 LOGO:@/publisher_logos/Paizo_Publishing.png
 URL:WEBSITE|http://www.paizo.com/|Visit Paizo Publishing!
 URL:WEBSITE|http://www.paizo.com/communityuse|Paizo's Community Use Policy.
-URL:Paizo Publishing|http://paizo.com/products/btpy90q9|Buy this publication from Paizo Publishing!
-DESC:For more than a hundred years, the demon-infested Worldwound has warred against humanity, its Abyssal armies clashing with crusaders, barbarians, mercenaries, and heroes along the border of lost Sarkoris. But when one of the magical wardstones that helps hedge the demons into their savage realm is sabotaged, the crusader city of Kenabres is attacked and devastated by the demonic hordes. Can a small band of heroes destined for mythic greatness survive long enough to hold back the forces of chaos and evil until help arrives, or will they become the latest in a long line of victims slaughtered by Deskari, the demon lord of the Locust Host?
+URL:Paizo Publishing|http://paizo.com/products/btpy90qb|Buy this publication from Paizo Publishing!
+DESC:The cult of Baphomet has been delivered a critical blow, yet the demon lord remains undeterred. Now he’s taken hostage the herald of Iomedae, goddess of justice and valor. The heroes of the Fifth Crusade must attempt their most dangerous and audacious mission yet—travel to Baphomet’s Abyssal realm known as the Ivory Labyrinth, navigate its trackless mazes, and find the ancient prison in which he’s keeping the abducted herald. Can the heroes rescue the goddess’s messenger, or are they already too late? And was the abduction merely a ruse by the demon lord to lure the heroes into his clutches?
 
 INFOTEXT:This dataset uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This dataset is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Publishing and Paizo products, please visit paizo.com.
 COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
@@ -38,17 +36,17 @@ COPYRIGHT:Demon Lord, Kostchtchie from the Tome of Horrors Complete Copyright 20
 COPYRIGHT:Demon Lord, Pazuzu from the Tome of Horrors Complete Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on material by Gary Gygax.
 COPYRIGHT:Huecuva from the Tome of Horrors Complete Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Underworld Oracle.
 COPYRIGHT:Mongrelman from the Tome of Horrors Complete Copyright 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on original material by Gary Gygax.
-COPYRIGHT:Pathfinder Adventure Path #73: The Worldwound Incursion Copyright 2013, Paizo Publishing, LLC; Author: Amber E. Scott.
-COPYRIGHT:PCGen dataset conversion for "Pathfinder Adventure Path #73: The Worldwound Incursion" Copyright 2018, PCGen Data Team (including, but not limited to Regan Anderson, Andrew Maitland, Paul Grosse, and Stefan Radermacher).
+COPYRIGHT:Pathfinder Adventure Path #77: Herald of the Ivory Labyrinth Copyright 2013, Paizo Publishing, LLC; Author: Amber E. Scott.
+COPYRIGHT:PCGen dataset conversion for "Pathfinder Adventure Path #77: Herald of the Ivory Labyrinth" Copyright 2022, PCGen Data Team (including, but not limited to Regan Anderson, Andrew Maitland, Paul Grosse, and Stefan Radermacher).
 
 # Do not remove the EXTRAFILE comment.
 #EXTRAFILE:OGL.txt
 
 # Data files
-EQUIPMENT:ap73_equip.lst
 
-ABILITY:ap73_abilities.lst
-ABILITYCATEGORY:ap73_abilitycategories.lst
+#ABILITY:ap77_abilities.lst
+#ABILITYCATEGORY:ap77_abilitycategories.lst
+#EQUIPMENT:ap77_equip.lst
 
 # ENTRY DATE: 2018-11
 # LST MONKEY: Regan Anderson
@@ -66,3 +64,4 @@ ABILITYCATEGORY:ap73_abilitycategories.lst
 #
 # End
 #
+

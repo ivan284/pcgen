@@ -1,0 +1,38 @@
+CAMPAIGN:Pathfinder Campaign Setting: The Worldwound
+KEY:Pathfinder Campaign Setting - The Worldwound
+GAMEMODE:Pathfinder
+TYPE:Paizo Publishing.Pathfinder Campaign Setting
+RANK:3
+STATUS:ALPHA
+GENRE:Fantasy
+BOOKTYPE:Campaign Setting
+SETTING:Pathfinder Campaign Setting
+PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core Rules
+PUBNAMELONG:Paizo Publishing
+PUBNAMESHORT:Paizo
+PUBNAMEWEB:https://paizo.com/
+SOURCELONG:The Worldwound
+SOURCESHORT:WWD
+SOURCEWEB:https://paizo.com/products/btpy8yvk
+SOURCEDATE:2013-06
+ISOGL:YES
+
+COVER:the_worldwound.jpg
+LOGO:@/publisher_logos/Paizo_Publishing.png
+URL:WEBSITE|http://www.paizo.com/|Visit Paizo Publishing!
+URL:WEBSITE|http://www.paizo.com/communityuse|Paizo's Community Use Policy.
+DESC:A century ago, the nation of Sarkoris was murdered. Today, the fallen nation is a horrific, post-apocalyptic nightmare cloven by a vast canyon that connects Golarion to the demon-haunted reaches of the Abyss. This rift is known as the Worldwound, and through it the demonic hordes pour forth, set on defiling the world of mortals and claiming it for their own. Though the demons have so far been held back at the borders by barbarians and crusaders alike, the region that was once Sarkoris remains a fiendish beachhead on the mortal realm. Worse, the Worldwound itself is slowly growing?and if something isn?t done to halt this blight, the demons it spawns might one day swallow all of Golarion!
+
+INFOTEXT:This dataset uses trademarks and/or copyrights owned by Paizo Publishing, LLC, which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This dataset is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Publishing and Paizo products, please visit paizo.com.
+COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+COPYRIGHT:System Reference Document. Copyright 2000, Wizards of the Coast, Inc; Authors: Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+COPYRIGHT:Pathfinder Campaign Setting: The Worldwound Copyright 2013, Paizo Publishing, LLC; Authors: James Jacobs, Jonathan H. Keith, Jason Nelson, Todd Stewart, and Tanith Tyrr.
+# Do not remove the EXTRAFILE comment.
+#EXTRAFILE:OGL.txt
+
+# Data files
+ABILITY:wwd_abilities.lst
+TEMPLATE:wwd_templates.lst
+
+# Forward References
+#FORWARDREF:CLASSSPELLLIST|Alchemist,Inquisitor,Magus,Summoner,Witch

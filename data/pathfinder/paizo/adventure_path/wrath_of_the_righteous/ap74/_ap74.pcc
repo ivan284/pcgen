@@ -43,8 +43,6 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Adventure Path #74: Sword of 
 #EXTRAFILE:OGL.txt
 
 # Data files
-ABILITY:ap74_abilities.lst
-ABILITYCATEGORY:ap74_abilitycategories.lst
 EQUIPMENT:ap74_equip.lst
 EQUIPMOD:ap74_equipmods.lst
 

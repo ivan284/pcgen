@@ -43,10 +43,7 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Adventure Path #76: The Midni
 #EXTRAFILE:OGL.txt
 
 # Data files
-
-#ABILITY:ap76_abilities.lst
-#ABILITYCATEGORY:ap76_abilitycategories.lst
-#EQUIPMENT:ap76_equip.lst
+EQUIPMOD:ap76_equipmods.lst
 
 # ENTRY DATE: 2018-11
 # LST MONKEY: Regan Anderson

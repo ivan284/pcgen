@@ -53,6 +53,8 @@ PCC:@/pathfinder/paizo/roleplaying_game/bestiary/bestiary.pcc
 PCC:@/pathfinder/paizo/roleplaying_game/bestiary_3/bestiary_3.pcc
 #Required for Wrath of the Righteous: The Worldwound Incursion
 PCC:@/pathfinder/paizo/roleplaying_game/mythic_adventures/_mythic_adventures.pcc
+
+#Wrath of the Righteous Campaign
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap73/_ap73.pcc
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap74/_ap74.pcc
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap75/_ap75.pcc
@@ -60,7 +62,6 @@ PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap76/_ap76.pcc
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap77/_ap77.pcc
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap78/_ap78.pcc
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/players_guide/_wrath_of_the_righteous_players_guide.pcc
-
 
 #For Blessed Touch Trait for Dolan
 PCC:@/pathfinder/paizo/player_companion/champions_of_purity/_champions_of_purity.pcc

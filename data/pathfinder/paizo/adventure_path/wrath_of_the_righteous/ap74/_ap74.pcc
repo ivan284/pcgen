@@ -44,10 +44,9 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Adventure Path #74: Sword of 
 #EXTRAFILE:OGL.txt
 
 # Data files
+ABILITY:ap74_abilities.lst
+ABILITYCATEGORY:ap74_abilitycategories.lst
 EQUIPMENT:ap74_equip.lst
-
-#ABILITY:ap74_abilities.lst
-#ABILITYCATEGORY:ap74_abilitycategories.lst
 
 # ENTRY DATE: 2018-11
 # LST MONKEY: Regan Anderson

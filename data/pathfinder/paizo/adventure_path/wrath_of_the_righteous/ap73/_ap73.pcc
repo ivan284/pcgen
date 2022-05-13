@@ -46,6 +46,7 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Adventure Path #73: The World
 
 # Data files
 EQUIPMENT:ap73_equip.lst
+EQUIPMOD:ap73_equipmods.lst
 
 ABILITY:ap73_abilities.lst
 ABILITYCATEGORY:ap73_abilitycategories.lst

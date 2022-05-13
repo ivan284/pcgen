@@ -46,3 +46,7 @@ Trickery				KEY:Touched by Divinity ~ Trickery			CATEGORY:Special Ability	TYPE:T
 War						KEY:Touched by Divinity ~ War				CATEGORY:Special Ability	TYPE:TouchedByDivinity		SPELLS:Innate|TIMES=TbdTimesPerDay|CASTERLEVEL=(max(TL,1))|Magic Weapon,11+WIS
 Water					KEY:Touched by Divinity ~ Water				CATEGORY:Special Ability	TYPE:TouchedByDivinity		SPELLS:Innate|TIMES=TbdTimesPerDay|CASTERLEVEL=(max(TL,1))|Obscuring Mist,11+WIS
 Weather					KEY:Touched by Divinity ~ Weather			CATEGORY:Special Ability	TYPE:TouchedByDivinity		SPELLS:Innate|TIMES=TbdTimesPerDay|CASTERLEVEL=(max(TL,1))|Obscuring Mist,11+WIS
+
+###Block: Modify Warpriest to allow using Radiance as Holy Avenger
+CATEGORY=Class|Paladin.MOD	DEFINE:AllowHolyAvengerRadiance|0	DEFINE:HolyAvengerRadianceCL|0	DEFINE:HolyAvengerRadianceSR|0	BONUS:VAR|AllowHolyAvengerRadiance|1	BONUS:VAR|HolyAvengerRadianceCL|PaladinLVL	BONUS:VAR|HolyAvengerRadianceSR|5+PaladinLVL
+CATEGORY=Class|Warpriest.MOD	DEFINE:AllowHolyAvengerRadiance|0	DEFINE:HolyAvengerRadianceCL|0	DEFINE:HolyAvengerRadianceSR|0	BONUS:VAR|AllowHolyAvengerRadiance|1	BONUS:VAR|HolyAvengerRadianceCL|WarpriestLVL	BONUS:VAR|HolyAvengerRadianceSR|5+WarpriestLVL

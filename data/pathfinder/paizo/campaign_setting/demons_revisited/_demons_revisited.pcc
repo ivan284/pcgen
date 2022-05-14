@@ -1,0 +1,50 @@
+CAMPAIGN:Pathfinder Campaign Setting: Demons Revisited
+GAMEMODE:Pathfinder|Pathfinder_PFS
+TYPE:Paizo Publishing.Pathfinder Campaign Setting
+STATUS:ALPHA
+GENRE:Fantasy
+BOOKTYPE:Campaign Setting
+SETTING:Pathfinder Campaign Setting
+PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core Rules
+PUBNAMELONG:Paizo Publishing
+PUBNAMESHORT:Paizo
+PUBNAMEWEB:http://paizo.com
+SOURCELONG:Demons Revisited
+SOURCESHORT:DR
+SOURCEWEB:https://paizo.com/products/btpy8yvo
+SOURCEDATE:2013-08
+RANK:201308
+ISOGL:YES
+
+COVER:PZO9261.jepg
+LOGO:@/publisher_logos/Paizo_Publishing.png
+URL:WEBSITE|http://www.paizo.com/|Visit Paizo Publishing!
+URL:WEBSITE|http://www.paizo.com/communityuse|Paizo's Community Use Policy.
+URL:Paizo Publishing|https://paizo.com/products/btpy8yvo?Pathfinder-Campaign-Setting-Demons-Revisited|Buy this publication from Paizo Publishing!
+DESC:Demons have plagued heroes since the dawn of time. They are legion, as varied as the countless mortal sins that give them birth, and ever eager for new opportunities to destroy the works of humanity. Yet despite the danger, arrogant mortals remain fascinated by demons, and may be the key by which these fiends shall inherit the world! Demons Revisited presents 10 of the game’s most notorious demons, providing details on the sins that spawn each type, what roles they play on the Abyss, and what particular devastations they prefer to wreak on the mortal realm, given the chance. In addition, each chapter presents a list of unique demons drawn from the Pathfinder campaign setting, along with a full stat block for some of the most powerful demons of their kind.
+INFOTEXT:This dataset uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This dataset is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Publishing and Paizo products, please visit paizo.com.
+
+#COPYRIGHTS
+COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+COPYRIGHT:System Reference Document. Copyright 2000. Wizards of the Coast, Inc; Authors: Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+COPYRIGHT:Pathfinder Campaign Setting: Lords of Chaos, Book of the Damned, Vol. 2. Copyright 2010, Paizo Inc.; Author: James Jacobs.
+COPYRIGHT:Advanced Bestiary. Copyright 2004, Green Ronin Publishing, LLC; Author: Matthew Sernett.
+COPYRIGHT:The Book of Fiends. Copyright 2003, Green Ronin Publishing, LLC; Authors: Aaron Loeb, Erik Mona, Chris Pramas, and Robert J. Schwalb.
+COPYRIGHT:Baphomet from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:Froghemoth from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:Ice Golem from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene.
+COPYRIGHT:Jubilex from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:Kostchtchie from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:Nabasu from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:Orcus from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:Pazuzu from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:Shadow Demon from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Neville White.
+COPYRIGHT:Vegepygmy from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+COPYRIGHT:PCGen dataset conversion for "Pathfinder Campaign Setting: Demons Revisited" Copyright 2013-2014, PCGen Data team (Including, but not limited to Paul Shipley, Paul Grosse (License), Andrew Maitland (Data))
+
+# Do not remove the EXTRAFILE comment.
+#EXTRAFILE:OGL.txt
+
+# Data Files
+ABILITY:dr_abilities_race.lst
+RACE:dr_races.lst

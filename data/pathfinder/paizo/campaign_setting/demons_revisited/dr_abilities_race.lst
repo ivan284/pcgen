@@ -1,0 +1,5 @@
+SOURCELONG:Demons Revisited	SOURCESHORT:DR	SOURCEWEB:https://paizo.com/products/btpy8yvo	SOURCEDATE:2013-08
+
+###Block: Half-Nabasu Abilities
+Consume Flesh	KEY:Half-Nabasu ~ Consume Flesh	CATEGORY:Special Ability	TYPE:SpecialQuality.Supernatural	DESC:Once per day, a half-nabasu can entirely consume the body of a creature of the same race as the half-nabasu's non-demonic parent - doing so takes the half-nabasu 10 minutes of grisly work, but grants the half-nabasu a +2 profane bonus on all attack rolls and damage rolls, as well as to its AC. In addition, the act grants the half-nabasu %1 temporary hit points. These effects last for %2 hours.|2*HD|HD	SOURCEPAGE:p.42
+Consumed Flesh	KEY:Temp Bonus ~ Consume Flesh	CATEGORY:Internal	VISIBLE:NO	TEMPBONUS:ANYPC|COMBAT|TOHIT,AC|2|TYPE=Profane	TEMPBONUS:ANYPC|HP|CURRENTMAX|2*TL|TYPE=Profane	TEMPBONUS:ANYPC|COMBAT|DAMAGE.Simple|2	TEMPBONUS:ANYPC|COMBAT|DAMAGE.Martial|2	TEMPBONUS:ANYPC|COMBAT|DAMAGE.Exotic|2	TEMPBONUS:ANYPC|COMBAT|DAMAGE.Natural|2	

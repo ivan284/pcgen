@@ -45,8 +45,6 @@ PCC:@/pathfinder/paizo/roleplaying_game/ultimate_intrigue/_ultimate_intrigue.pcc
 PCC:@/pathfinder/paizo/roleplaying_game/ultimate_campaign/_ultimate_campaign.pcc
 PCC:@/pathfinder/paizo/roleplaying_game/advanced_class_guide/_advanced_class_guide.pcc
 
-# Using new file style
-
 #Required for Bestiary 3
 PCC:@/pathfinder/paizo/roleplaying_game/bestiary/bestiary.pcc
 #Required for Mythic Adventures
@@ -54,27 +52,36 @@ PCC:@/pathfinder/paizo/roleplaying_game/bestiary_3/bestiary_3.pcc
 #Required for Wrath of the Righteous: The Worldwound Incursion
 PCC:@/pathfinder/paizo/roleplaying_game/mythic_adventures/_mythic_adventures.pcc
 
-#Wrath of the Righteous Campaign
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap73/_ap73.pcc
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap74/_ap74.pcc
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap75/_ap75.pcc
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap76/_ap76.pcc
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap77/_ap77.pcc
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap78/_ap78.pcc
+#Players' Guide
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/players_guide/_wrath_of_the_righteous_players_guide.pcc
 
+#Worldwound Incursion
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap73/_ap73.pcc
 #For Blessed Touch Trait for Dolan
 PCC:@/pathfinder/paizo/player_companion/champions_of_purity/_champions_of_purity.pcc
-
 #For Riftwarden prestige class for Aravashnial
 PCC:@/pathfinder/paizo/campaign_setting/paths_of_prestige/_paths_of_prestige.pcc
 
+#Sword of Valor
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap74/_ap74.pcc
 #For Low Templar prestige class for Aron, and languages for all NPCs
 PCC:@/pathfinder/paizo/campaign_setting/inner_sea_world_guide/inner_sea_world_guide.pcc
 
+#Demon's Heresy
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap75/_ap75.pcc
 
+#The Midnight Isles
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap76/_ap76.pcc
 
+#Herald of the Ivory Labyrinth
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap77/_ap77.pcc
+
+#City of Locusts
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap78/_ap78.pcc
+
+# Using new file style
 
 FORWARDREF:RACE|Orc,Companion (Bat (Dire)),Companion (Dinosaur (Ankylosaurus)),Companion (Dinosaur (Brachiosaurus)),Companion (Dinosaur (Pteranodon)),Companion (Dinosaur (Stegosaurus)),Companion (Dinosaur (Triceratops)),Companion (Dinosaur (Tyrannosaurus)),Companion (Elephant (Mastodon)),Companion (Elephant),Companion (Herd Animal (Aurochs)),Companion (Herd Animal (Bison)),Companion (Rhinoceros)
 FORWARDREF:CLASSSPELLLIST|Magus,Medium,Mesmerist,Occultist,Psychic,Spiritualist
 FORWARDREF:SPELL|Telepathy
+FORWARDREF:FEAT|Psychic Sensitivity

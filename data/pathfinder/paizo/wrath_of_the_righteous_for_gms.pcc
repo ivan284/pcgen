@@ -54,32 +54,44 @@ PCC:@/pathfinder/paizo/roleplaying_game/bestiary_6/_bestiary_6.pcc
 PCC:@/pathfinder/paizo/roleplaying_game/ultimate_intrigue/_ultimate_intrigue.pcc
 PCC:@/pathfinder/paizo/roleplaying_game/ultimate_wilderness/_ultimate_wilderness.pcc
 
-#For Blessed Touch Trait for Dolan
-PCC:@/pathfinder/paizo/player_companion/champions_of_purity/_champions_of_purity.pcc
-#For Low Templar prestige class for Aron, and languages for all NPCs
-PCC:@/pathfinder/paizo/campaign_setting/inner_sea_world_guide/inner_sea_world_guide.pcc
-#For deity Kabriri
-PCC:@/pathfinder/paizo/campaign_setting/book_of_the_damned_volume_2/_book_of_the_damned_volume_2.pcc
 #Required for Wrath of the Righteous: The Worldwound Incursion
 PCC:@/pathfinder/paizo/roleplaying_game/mythic_adventures/_mythic_adventures.pcc
+
+#Players' Guide
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/players_guide/_wrath_of_the_righteous_players_guide.pcc
+
+#Worldwound Incursion
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap73/_ap73.pcc
+#For Blessed Touch Trait for Dolan
+PCC:@/pathfinder/paizo/player_companion/champions_of_purity/_champions_of_purity.pcc
 #For Riftwarden prestige class for Aravashnial
 PCC:@/pathfinder/paizo/campaign_setting/paths_of_prestige/_paths_of_prestige.pcc
 #For: Demonic Vermin Template
 PCC:@/pathfinder/paizo/campaign_setting/the_worldwound/_the_worldwound.pcc
+
+#Sword of Valor
+PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap74/_ap74.pcc
+#For Low Templar prestige class for Aron, and languages for all NPCs
+PCC:@/pathfinder/paizo/campaign_setting/inner_sea_world_guide/inner_sea_world_guide.pcc
+#For deity Kabriri
+PCC:@/pathfinder/paizo/campaign_setting/book_of_the_damned_volume_2/_book_of_the_damned_volume_2.pcc
 #For: Half-Nabasu
 PCC:@/pathfinder/paizo/campaign_setting/demons_revisited/_demons_revisited.pcc
-#Wrath of the Righteous Campaign
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap73/_ap73.pcc
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap74/_ap74.pcc
+
+#Demon's Heresy
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap75/_ap75.pcc
+
+#The Midnight Isles
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap76/_ap76.pcc
+
+#Herald of the Ivory Labyrinth
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap77/_ap77.pcc
+
+#City of Locusts
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap78/_ap78.pcc
-PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/players_guide/_wrath_of_the_righteous_players_guide.pcc
 
 FORWARDREF:SPELL|Telepathy
 FORWARDREF:CLASSSPELLLIST|Medium,Mesmerist,Occultist,Psychic,Spiritualist
 FORWARDREF:ABILITY=Special Ability|Mythic Power,Surge
-
-
 FORWARDREF:CLASSSPELLLIST|Magus
+FORWARDREF:FEAT|Psychic Sensitivity

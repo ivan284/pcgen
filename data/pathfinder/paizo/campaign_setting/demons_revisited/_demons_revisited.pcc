@@ -47,4 +47,4 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Campaign Setting: Demons Revi
 
 # Data Files
 ABILITY:dr_abilities_race.lst
-RACE:dr_races.lst
+TEMPLATE:dr_templates.lst

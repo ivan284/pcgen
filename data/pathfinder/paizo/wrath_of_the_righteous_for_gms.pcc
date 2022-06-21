@@ -77,6 +77,8 @@ PCC:@/pathfinder/paizo/campaign_setting/inner_sea_world_guide/inner_sea_world_gu
 PCC:@/pathfinder/paizo/campaign_setting/book_of_the_damned_volume_2/_book_of_the_damned_volume_2.pcc
 #For: Half-Nabasu
 PCC:@/pathfinder/paizo/campaign_setting/demons_revisited/_demons_revisited.pcc
+#For: Vescavor Swarm
+PCC:@/pathfinder/paizo/campaign_setting/lost_kingdoms/_lost_kingdoms.pcc
 
 #Demon's Heresy
 PCC:@/pathfinder/paizo/adventure_path/wrath_of_the_righteous/ap75/_ap75.pcc
